@@ -35,7 +35,6 @@ namespace Tyuiu.IvanovSV.Sprint1.Task0.V15
 
             Console.ReadLine();
 
-
         }
     }
 }
