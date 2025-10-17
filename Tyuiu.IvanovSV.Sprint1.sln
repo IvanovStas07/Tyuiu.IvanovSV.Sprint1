@@ -23,7 +23,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{E430857A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanovSV.Sprint1.Task2.V19", "Tyuiu.IvanovSV.Sprint1.Task2.V19\Tyuiu.IvanovSV.Sprint1.Task2.V19.csproj", "{23DE8374-AA92-437B-8578-04548068DBE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanovSV.Sprint1.task2.V19.Lib", "Tyuiu.IvanovSV.Sprint1.task2.V19.Lib\Tyuiu.IvanovSV.Sprint1.task2.V19.Lib.csproj", "{25068746-706A-4846-824A-B6E77FF4DC9C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanovSV.Sprint1.Task2.V19.Lib", "Tyuiu.IvanovSV.Sprint1.task2.V19.Lib\Tyuiu.IvanovSV.Sprint1.Task2.V19.Lib.csproj", "{25068746-706A-4846-824A-B6E77FF4DC9C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanovSV.Sprint1.Task2.V19.Test", "Tyuiu.IvanovSV.Sprint1.Task2.V19.Test\Tyuiu.IvanovSV.Sprint1.Task2.V19.Test.csproj", "{4F543E7D-9B93-43AC-BAA1-A317B9441CAC}"
 EndProject
