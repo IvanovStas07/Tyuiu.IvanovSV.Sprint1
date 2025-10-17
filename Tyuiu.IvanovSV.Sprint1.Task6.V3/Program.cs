@@ -1,0 +1,39 @@
+﻿using Tyuiu.IvanovSV.Sprint1.Task6.V3.Lib;
+
+namespace Tyuiu.IvanovSV.Sprint1.Task6.V3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            DataService ds = new DataService();
+
+            Console.Title = "Спринт #1 | Выполнил: Иванов С. В. | ИСТНб-25-1";
+            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("* Спринт #1                                                               *");
+            Console.WriteLine("* Задание #6                                                              *");
+            Console.WriteLine("* Вариант #3                                                              *");
+            Console.WriteLine("* Выполнила: Иванов С. В. | ИСТНб-25-1                                    *");
+            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("* УСЛОВИЕ:                                                                *");
+            Console.WriteLine("* Пользователь вводит текст. Напечатать строку, составленную из           *");
+            Console.WriteLine("* последних литер всех слов.                                              *");
+            Console.WriteLine("*                                                                         *");
+            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
+            Console.WriteLine("***************************************************************************");
+
+
+
+            string value = Convert.ToString(Console.ReadLine());
+
+            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
+            Console.WriteLine("***************************************************************************");
+
+            Console.WriteLine("Строка, составленная из последних литер всех слов: " + ds.LastLetterWord(value));
+
+            Console.ReadKey();
+        }
+    }
+}
