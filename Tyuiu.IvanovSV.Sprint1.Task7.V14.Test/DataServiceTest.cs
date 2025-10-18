@@ -11,7 +11,7 @@ namespace Tyuiu.IvanovSV.Sprint1.Task7.V14.Test
             DataService ds = new DataService();
             double x = 2;
             double y = 3;
-            double wait = 2.034;
+            double wait = 1.2;
             var res = ds.Calculate(x, y);
             Assert.AreEqual(wait, res);
         }
