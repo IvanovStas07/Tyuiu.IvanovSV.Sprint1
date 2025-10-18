@@ -6,8 +6,8 @@ namespace Tyuiu.IvanovSV.Sprint1.Task3.V12
 {
     static void Main(string[] args)
     {
-        DataService ds = new DataService(); 
-        Console.Title = "Спринт #1 | Выполнил: Иванов С. В. | ИСТНб-25-1                             *");
+        DataService ds = new DataService();
+        Console.Title = "Спринт #1 | Выполнил: Иванов С. В. | ИСТНб-25-1";
         Console.WriteLine("* Задание #2                                                              *");
         Console.WriteLine("* Вариант #19                                                             *");
         Console.WriteLine("* Выполнил: Иванов С. В. | ИСТНб-25-1                                     *");
